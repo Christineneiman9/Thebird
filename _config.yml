@@ -16,3 +16,5 @@ channels:
   - name: "nightly"
     vers: "1.17"
     package: "nightly"
+
+theme: jekyll-theme-merlot
